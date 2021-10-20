@@ -33,17 +33,17 @@ BB Chat - ADs policy
 
 USDT (TRC), TRX:</i> `TNe5Gn1BAQwWzEX5k7DPYgmxbTh5ZC8zh9`
 
-BB Community Leaders work and remuneration
+<li> BB Community Leaders work and remuneration
 
-BB Community Leaders ensure the implementation of this policy
+<li> BB Community Leaders ensure the implementation of this policy
 
-Organize acceptance of payments and renewal of subscriptions
+<li> Organize acceptance of payments and renewal of subscriptions
 
-Receive a reward in the form of 45% of incoming payments for ADs Subscriptions (For example we have 3 Leaders now. So reward is 45/3 = 15% per Leader)
+<li> receive a reward in the form of 45% of incoming payments for ADs Subscriptions (For example we have 3 Leaders now. So reward is 45/3 = 15% per Leader)
 
-Advertising Publishing Policy
+### Advertising Publishing Policy
 
-you need to order Monthly Ads subscription before publications otherwise, your ad will be removed. In case of repeated violations, you can be banned either temporarily or permanently
+<i><li>you need to order Monthly Ads subscription before publications otherwise, your ad will be removed. In case of repeated violations, you can be banned either temporarily or permanently</i>
 
 you must leave your post tag on message at the end of the post. You get it after paying for the subscription. Tag Example: #ad12
 
