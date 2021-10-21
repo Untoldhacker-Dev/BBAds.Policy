@@ -53,17 +53,25 @@ USDT (TRC), TRX:</i> `TNe5Gn1BAQwWzEX5k7DPYgmxbTh5ZC8zh9`
 
 ## Strictly not allowed:
 
-<li> See: [BB ToS](https://bots.business/terms-of-service.html), 4.13
+ See: [BB ToS](https://bots.business/terms-of-service.html), 4.13
 
 ### ADs examples
 
 <li> Ad: Ref link to bot:
+ 
+ ![Ref link Example](https://github.com/Untoldhacker-Dev/pictoQue/blob/main/IMG_20211021_103733_425.jpg)
 
 <li> 2. Ref link + channel in title Ad:
+ 
+ ![Ref Link + Channel in title ad example](https://github.com/Untoldhacker-Dev/pictoQue/blob/main/IMG_20211021_103737_565.jpg)
 
 <li> 3. Chanell promotions:
+ 
+ ![Channel Promotion Example](https://github.com/Untoldhacker-Dev/pictoQue/blob/main/IMG_20211021_103740_285.jpg)
 
 <li> Bot selling Ad:
+ 
+ ![Bot Selling Ad Example](https://github.com/Untoldhacker-Dev/pictoQue/blob/main/IMG_20211021_103743_558.jpg)
 
 <li> and etc...
 
