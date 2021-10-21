@@ -45,27 +45,27 @@ USDT (TRC), TRX:</i> `TNe5Gn1BAQwWzEX5k7DPYgmxbTh5ZC8zh9`
 
 <i><li>you need to order Monthly Ads subscription before publications otherwise, your ad will be removed. In case of repeated violations, you can be banned either temporarily or permanently</i>
 
-you must leave your post tag on message at the end of the post. You get it after paying for the subscription. Tag Example: #ad12
+<i><li>you must leave your post tag on message at the end of the post. You get it after paying for the subscription. Tag Example:</i> `#ad12`
 
-you cannot post ads more often than your plan allows
+<li> you cannot post ads more often than your plan allows
 
-you can only send ads that are defined by your plan
+<li> you can only send ads that are defined by your plan
 
-Strictly not allowed:
+## Strictly not allowed:
 
-See: BB ToS, 4.13
+<li> See: [BB ToS](https://bots.business/terms-of-service.html), 4.13
 
-ADs examples
+### ADs examples
 
-Ad: Ref link to bot:
+<li> Ad: Ref link to bot:
 
-2. Ref link + channel in title Ad:
+<li> 2. Ref link + channel in title Ad:
 
-3. Chanell promotions:
+<li> 3. Chanell promotions:
 
-Bot selling Ad:
+<li> Bot selling Ad:
 
-and etc...
+<li> and etc...
 
  
 
